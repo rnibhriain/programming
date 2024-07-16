@@ -1,3 +1,3 @@
-# programming
+# Introduction to Programming
 
-All programming assignments for module: CSU11010
+All programming assignments and tutorials for module: CSU11010
